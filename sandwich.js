@@ -70,4 +70,4 @@ function makeMeASandwich (a, b, c, d, e, f){
   };
  }
 
-document.write(makeMeASandwich(true,false, true, true, false))
+document.write(makeMeASandwich(true,false, true, true, false));
