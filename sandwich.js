@@ -31,7 +31,7 @@
 
 /* Declare the function 'mySandwich' */
        function pickles() {
-         console.log("I have pickles in my sandwich");
+         document.write("I have pickles in my sandwich");
          };
         function lettuce() {
          console.log("I have lettuce in my sandwich");
@@ -71,3 +71,6 @@ function makeMeASandwich (a, b, c, d, e, f){
  }
 
 document.write(makeMeASandwich(true,false, true, true, false));
+
+
+
